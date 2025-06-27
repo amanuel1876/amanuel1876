@@ -1,4 +1,4 @@
-👋 Hi, I'm @amanuel1876, a passionate web developer with a background in 5th-year software engineering at Wachamo University.
+👋 Hi, I'm @amanuel1876, a passionate web developer with a background in software engineering at Wachamo University.
 
 🌱 I am currently expanding my knowledge in web development, exploring new technologies, and honing my skills to stay ahead in this dynamic field.
 
